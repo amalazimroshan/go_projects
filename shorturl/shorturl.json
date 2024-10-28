@@ -1,0 +1,22 @@
+[
+    {
+        "path": "/news",
+        "url": "https://www.bbc.com/news"
+    },
+    {
+        "path": "/sports",
+        "url": "https://www.espn.com"
+    },
+    {
+        "path": "/weather",
+        "url": "https://www.weather.com"
+    },
+    {
+        "path": "/recipes",
+        "url": "https://www.allrecipes.com"
+    },
+    {
+        "path": "/travel",
+        "url": "https://www.tripadvisor.com"
+    }
+]
